@@ -1,0 +1,3 @@
+<?php
+
+	runView('_default');
